@@ -1,0 +1,87 @@
+.main{
+    /* border:1px solid black; */
+    height:100vh;
+    width:100vw;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.board{
+    border:1px solid black;
+    height:80%;
+    width:50%;
+
+}
+.row{
+    border:1px solid black;
+    height:12.2%;
+    width:100%;
+}
+.first{
+    display:flex;
+}
+
+.ocd1{
+    /* border:1px solid black; */
+    height:100%;
+    width:15%;
+    background-color:white;;
+
+}
+.ecd1{
+    /* border:1px solid black; */
+    height:100%;
+    width:15%;
+    background-color:black;
+
+}
+.second{
+    display:flex;
+}
+.third{
+    display:flex;
+}
+.fourth{
+    display:flex;
+}
+.five{
+    display:flex;
+}
+.six{
+    display:flex;
+}
+.seven{
+    display:flex;
+}
+.eight{
+    display:flex;
+}
+
+.ocd2{
+    /* border:1px solid black; */
+    height:100%;
+    width:15%;
+    background-color:black;;
+
+}
+.ecd2{
+    /* border:1px solid black; */
+    height:100%;
+    width:15%;
+    background-color:white;
+
+}
+.ocd1{
+    /* border:1px solid black; */
+    height:100%;
+    width:15%;
+    background-color:white;
+
+}
+.ecd1{
+    /* border:1px solid black; */
+    height:100%;
+    width:15%;
+    background-color:black;
+
+}
